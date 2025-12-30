@@ -1,0 +1,134 @@
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    background-color:#dbeafe;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.h{
+    color: rgb(4, 88, 245);
+    font-style: italic;
+    font-size: 40px;
+}
+p{
+    margin-top: 20px;
+}
+.btn{
+    position: relative;
+    right: 1100px;
+    top: 350px;
+    width: 140px;
+    height: 40px;
+    border: 2px solid rgb(236, 139, 55);
+    background-color: rgb(236, 139, 55);
+    color: white;
+}
+.navbar-nav .nav-link:hover {
+    color: #0d6efd;
+    transition: color 0.3s;
+}
+.two{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+.im{
+    width: 470px;
+    height: 300px;
+}
+.tr{
+    color: black;
+}
+.bt{
+    background-color: rgb(20, 62, 169);
+    border: 2px solid rgb(20, 62, 169);
+}
+.ss{
+    display: flex;
+    justify-content: space-around;
+    background-color: #dbeafe;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.three{
+    margin-top: 80px;
+}
+.ff{
+    margin-top: 250px;
+}
+.bb{
+    color: #0d6efd;
+    font-size: 50px;
+    font-style: italic;
+}
+.nn{
+    width: 120px;
+     border: 2px solid rgb(236, 139, 55);
+    background-color: rgb(236, 139, 55);
+    color: white;
+}
+.part1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.ph{
+    width: 70px;
+}
+.part2{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 100px;
+    text-align: center;
+}
+.tt{
+    position: relative;
+    left: 580px;
+    background-color: rgb(20, 62, 169);
+    border: 2px solid rgb(20, 62, 169);
+}
+.five{
+    margin-top: 130px;
+    margin-left: 40px;
+}
+input{
+    width: 600px;
+    height: 50px;
+    display: flex;
+    gap: 30px;
+}
+textarea{
+    width: 600px;
+    height: 70px;
+}
+.vv{
+    margin-top: 30px;
+    background-color: rgb(20, 62, 169);
+    border: 2px solid rgb(20, 62, 169);
+    width: 100px;
+    color: white;
+}
+#p1{
+    color: red;
+}
+#p2{
+    color: red;
+}
+#p3{
+    color: red;
+}
+#p4{
+    color: red;
+}
